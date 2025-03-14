@@ -6,7 +6,7 @@ Unit Testing is testing the software by unit wich are seperated code blocks by f
 ### **HIL Testing:**
 Hardware in Loop testing  making hardware testing under a loop with bluepill and sensor datas. This testing are mostly became more useful with other proceses like profiling and testing.
 
-### **Somke Testing:**
+### **Smoke Testing:**
 Testing Software quickly after every feature. in every little changes testing the software helps understanding the errors directly. In smoke testing none of the ci/cd proceses are using. 
 
 ### **Mock:**
